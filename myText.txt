@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Test1
 Ho modificato la riga di develop
 =======
 Ho modificato il file
 >>>>>>> 9b623f12a91eaa05a1ffcab30a537f35b2ffda2d
+=======
+Ho modificato il file
+
+Adesso è per l'esercizio 2
+>>>>>>> a6d7faf (Esercizio2Commmit)
